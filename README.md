@@ -2,4 +2,3 @@
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning 
 - ✨ My technical skills include Python, R, SAS, SQL, HTML and CSS
-- 📫 Reach me at chunhanssen@gmail.com
