@@ -3,4 +3,5 @@
 - ✨ My technical skills include Python, R, SAS, SQL, HTML and CSS
 - 🌱 Personal projects: 
 1. Python command line based mastermind game 
-2. Web scraping and data analysis with Rvest and Shiny (on-going)
+2. Personal web portfolio (HTML, CSS, Javascript)
+3. Web scraping and data analysis with Rvest and Shiny (on-going)
