@@ -8,3 +8,5 @@
 3. Web scraping and data analysis with Rvest and Shiny (on-going)
 
 - Hackathon projects: 
+ 1. MASA Hackathon: https://github.com/CH2001/MASA-hackathon
+ 2. World Co2 emissions: https://github.com/CH2001/World-Co2-emissions
