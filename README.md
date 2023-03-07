@@ -7,6 +7,6 @@
       2. [Personal web portfolio (HTML, CSS, Javascript)](https://github.com/CH2001/chunhanssen.github.io) <br>
       3. Web scraping and data analysis with Rvest and Shiny (on-going)
    
-- :keyboard: Hackathon projects: 
+- :keyboard: Hackathon projects: <br>
       1. [MASA Hackathon (Python)](https://github.com/CH2001/MASA-hackathon) <br> 
       2. [World Co2 emissions (Python)](https://github.com/CH2001/World-Co2-emissions)
