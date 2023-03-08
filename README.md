@@ -1,4 +1,4 @@
-Hi, I’m Hanssen from Malaysia 🇲🇾. I’m interested in field of data science. My technical skills include Python, R, SAS, SQL, HTML and CSS. My linktree: https://linktr.ee/chunhanssen
+Hi, I’m Hanssen from Malaysia. I’m interested in field of data science. My technical skills include Python, R, SAS, SQL, HTML and CSS. My linktree: https://linktr.ee/chunhanssen
 <br> 
 
 - 🌱 Projects: <br>
