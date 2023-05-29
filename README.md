@@ -10,4 +10,5 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
 - :keyboard: Hackathon projects: <br>
       1. [MASA Hackathon (Python)](https://github.com/CH2001/MASA-hackathon) <br> 
       2. [World Co2 emissions dashboard - Streamlit (Python)](https://github.com/CH2001/World-Co2-emissions) <br>
-      3. [GreenRadar recycling application (Next.js, JavaScript, HTML, CSS)](https://github.com/Kahar90/gonrecycle)
+      3. [GreenRadar recycling application (Next.js)](https://github.com/Kahar90/gonrecycle) <br> 
+      4. [Mule-Zero (Next.js)](https://github.com/CH2001/mule-zero) 
