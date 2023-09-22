@@ -14,7 +14,7 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
       4. [Mule-Zero (Next.js)](https://github.com/CH2001/mule-zero) <br>
       5. [WEGO (Next.js)](https://github.com/CH2001/rapidhack)https://github.com/CH2001/rapidhack)<br>
 
-  - :notebook_with_decorative_cover: Course/ Notes: <br>
+- :notebook_with_decorative_cover: Course/ Notes: <br>
       1. [Introduction to shell/bash](https://github.com/CH2001/Killercoda-courses) <br>
       2. [Data science/ analytics](https://github.com/CH2001/Data-science-analytics) 
   
