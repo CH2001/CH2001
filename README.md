@@ -18,4 +18,3 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
       1. [Introduction to shell/bash](https://github.com/CH2001/Killercoda-courses) <br>
       2. [Data science/ analytics](https://github.com/CH2001/Data-science-analytics) 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch2001)](https://github.com/anuraghazra/github-readme-stats)
