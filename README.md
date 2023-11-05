@@ -5,7 +5,9 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
 
 - 🌱 Projects: <br>
       1. [Command line based mastermind game (Python)](https://github.com/CH2001/1-Python-command-line-based-mastermind-game) <br>
-      2. [Web scraping and data analysis with Rvest and Shiny (R)](https://github.com/CH2001/P2-Web-scraping-and-analysis--Rvest-and-Shiny-)
+      2. [Web scraping and data analysis with Rvest and Shiny (R)](https://github.com/CH2001/P2-Web-scraping-and-analysis--Rvest-and-Shiny-) <br>
+      3. [Semiconductor abnormality classification (Python, Streamlit)](https://github.com/CH2001/Semiconductor-Abnormality-Classification) <br>
+      4. [Employee churn classification (Python, Flask, Docker)](https://github.com/CH2001/Employee-churn-classification)
    
 - :keyboard: Hackathon projects: <br>
       1. [MASA Hackathon (Python)](https://github.com/CH2001/MASA-hackathon) <br> 
