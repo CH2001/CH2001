@@ -1,9 +1,9 @@
-Hi, I’m Hanssen from Malaysia. I’m interested in field of data science/ engineering. I am open to any opportunities to discuss or collaborate on any data projects/ hackathons. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/chunhanssen/)
+Hi, I’m Hanssen from Malaysia. I’m interested in field of data science/ engineering. I am open to any opportunities to discuss or collaborate on any data projects/ hackathons. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/chunhanssen/). 
 <br> 
 
-Skills: Python, R, SAS, SQL, HTML, CSS, shell script, Javascript
-Tools: dbt, streamlit, PowerBI, AWS, Azure
-Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://github.com/CH2001/chunhanssen.github.io) <br>
+Skills: Python, R, SAS, SQL, HTML, CSS, shell script, Javascript <br> 
+Tools: dbt, streamlit, PowerBI, AWS, Azure <br> 
+Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://github.com/CH2001/chunhanssen.github.io) <br> <br> <br> 
 
 - 🔨 Utility/ packages: <br>
       1. [Git repository merger](https://github.com/CH2001/RepoMerger)<br>
