@@ -5,12 +5,14 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
 
 - 🔨 Utility/ packages: <br>
       1. [Git repository merger](https://github.com/CH2001/RepoMerger)<br>
+      <br>
 
 - 🌱 Projects: <br>
       1. [Command line based mastermind game (Python)](https://github.com/CH2001/1-Python-command-line-based-mastermind-game) <br>
       2. [Web scraping and data analysis with Rvest and Shiny (R)](https://github.com/CH2001/P2-Web-scraping-and-analysis--Rvest-and-Shiny-) <br>
       3. [Semiconductor abnormality classification (Python, Streamlit)](https://github.com/CH2001/Semiconductor-Abnormality-Classification) <br>
       4. [Employee churn classification (Python, Flask, Docker)](https://github.com/CH2001/Employee-churn-classification)
+      <br> 
    
 - :keyboard: Hackathon projects: <br>
       1. [MASA Hackathon (Python)](https://github.com/CH2001/MASA-hackathon) <br> 
@@ -18,8 +20,10 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
       3. [GreenRadar recycling application (Next.js)](https://github.com/Kahar90/gonrecycle) <br> 
       4. [Mule-Zero (Next.js)](https://github.com/CH2001/mule-zero) <br>
       5. [WEGO (Next.js)](https://github.com/CH2001/rapidhack)
+      <br> 
 
 - :notebook_with_decorative_cover: Course/ Notes: <br>
       1. [Introduction to shell/bash](https://github.com/CH2001/Killercoda-courses) <br>
       2. [Data science/ analytics](https://github.com/CH2001/Data-science-analytics)
+      <br> 
   
