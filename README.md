@@ -3,6 +3,9 @@ Hi, I’m Hanssen from Malaysia. I’m interested in field of data science. My t
 
 Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://github.com/CH2001/chunhanssen.github.io) <br>
 
+- 🔨 Utility/ packages: <br>
+      1. [Git repository merger](https://github.com/CH2001/RepoMerger)<br>
+
 - 🌱 Projects: <br>
       1. [Command line based mastermind game (Python)](https://github.com/CH2001/1-Python-command-line-based-mastermind-game) <br>
       2. [Web scraping and data analysis with Rvest and Shiny (R)](https://github.com/CH2001/P2-Web-scraping-and-analysis--Rvest-and-Shiny-) <br>
@@ -18,5 +21,5 @@ Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://githu
 
 - :notebook_with_decorative_cover: Course/ Notes: <br>
       1. [Introduction to shell/bash](https://github.com/CH2001/Killercoda-courses) <br>
-      2. [Data science/ analytics](https://github.com/CH2001/Data-science-analytics) 
+      2. [Data science/ analytics](https://github.com/CH2001/Data-science-analytics)
   
