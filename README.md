@@ -3,7 +3,7 @@ Hi, I’m Hanssen from Malaysia. I’m interested in field of data science/ engi
 
 Skills: Python, R, SAS, SQL, HTML, CSS, shell script, Javascript <br> 
 Tools: dbt, streamlit, PowerBI, AWS, Azure <br> 
-Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://github.com/CH2001/chunhanssen.github.io) <br> <br> <br> 
+Personal website: [Personal web portfolio (HTML, CSS, Javascript)](https://github.com/CH2001/chunhanssen.github.io) <br> <br> 
 
 - 🔨 Utility/ packages: <br>
       1. [Git repository merger](https://github.com/CH2001/RepoMerger)<br>
